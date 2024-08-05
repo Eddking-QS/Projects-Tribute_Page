@@ -30,7 +30,7 @@ A simple tribute page made with HTML and CSS. This is one of the projects requir
 
 This project features responsive design however for the best experience view on a 1920x1080 screen. For mobile view, use desktop view and landscape orientation.
 
-[Tribute Page](https://eddking-qs.github.io/FCC-Tribute_Page/)
+[Tribute Page](https://eddking-qs.github.io/Projects-Tribute_Page/)
 
 ## Disclaimer
 
