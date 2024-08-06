@@ -134,7 +134,7 @@ header {
 
 #main_ace {
     width: min(50vw, 600px);
-    height: min(70vh, 900px);
+    height: auto;
     position: relative;
     top: 50px;
     right: auto;
