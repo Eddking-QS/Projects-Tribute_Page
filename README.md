@@ -10,7 +10,7 @@ _This project features responsive design however for the best experience view on
 
 View the web page here: [Tribute Page](https://quintin-dev.github.io/Projects-Tribute_Page/)
 
-![Tribute Page](Assets/preview.png)
+![Tribute Page](Images/preview.png)
 
 ## Features
 
