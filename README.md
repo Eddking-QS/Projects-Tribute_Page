@@ -6,9 +6,11 @@ A simple tribute page made with HTML and CSS. This is one of the projects requir
 
 ## Live Demo
 
-This project features responsive design however for the best experience view on a 1920x1080 screen. For mobile view, use desktop view and landscape orientation.
+_This project features responsive design however for the best experience view on a 1920x1080 screen. For mobile view, use desktop view and landscape orientation._
 
-[Tribute Page](https://quintin-dev.github.io/Projects-Tribute_Page/)
+View the web page here: [Tribute Page](https://quintin-dev.github.io/Projects-Tribute_Page/)
+
+![Tribute Page](Assets/preview.png)
 
 ## Features
 
